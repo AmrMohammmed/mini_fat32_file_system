@@ -1,0 +1,17 @@
+
+CD             Displays the name of or changes the current directory.
+CLS            Clears the screen.
+DIR            Displays a list of files and subdirectories in a directory.
+COPY           Copies one or more files to another location.
+DEL            Deletes one or more files.
+HELP           Provides Help information for Windows commands.nds.
+MD             Creates a directory.
+RD             Removes a directory.
+RENAME         Renames a file or files.
+TYPE           Displays the contents of a text file.
+EXIT           Quits the CMD.EXE program (command interpreter).
+IMPORT         Import text file(s) from your computer
+EXPORT         Export text file(s) to your computer
+
+
+For more information on tools see the command-line reference in the online help.
